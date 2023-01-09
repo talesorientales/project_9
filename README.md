@@ -1,7 +1,7 @@
 project_musina_9
 
 Проект создан на основе Maven. В пакете src создаем подпакет Data, в нем программа, отвечающая за манипуляцию с данными scv.
-![image](https://user-images.githubusercontent.com/122260456/211339876-b3352275-ed4e-472b-b34b-10bce5ba58b5.png)
+![image](https://user-images.githubusercontent.com/122260456/211369376-6b5c803b-0abf-4d36-aad0-30a8217b33cf.png)
 
 Объявляем класс Forbes для хранения информации, класс ForbesManipulation для ее обработки:
 ![image](https://user-images.githubusercontent.com/122260456/211349110-c40fb9e7-b9a2-4aae-b950-7d26a6d41422.png)
